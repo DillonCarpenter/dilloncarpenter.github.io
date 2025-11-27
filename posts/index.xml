@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 23:47:15 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 26 Nov 2025 23:47:15 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on My New Hugo Site</title><link>https://example.org/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Chess Trainer</title><link>https://example.org/posts/chess-trainer/</link><pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate><guid>https://example.org/posts/chess-trainer/</guid><description>&lt;h2 id="goals"&gt;Goals:&lt;/h2&gt;
+&lt;p&gt;Create a post game analysis tool for chess players.&lt;/p&gt;
+&lt;h2 id="what-is-the-problem-to-solve"&gt;What is the problem to solve?&lt;/h2&gt;
+&lt;p&gt;One of the best ways for chess players to improve is to analyze and review their games. This is typically done with the help of a strong chess engine like Stockfish. The problem? Current chess engines provide evaluations but not explanations.&lt;/p&gt;
+&lt;h2 id="why-this-problem-is-important-to-solve"&gt;Why this problem is important to solve?&lt;/h2&gt;
+&lt;p&gt;This makes it difficult for learners and even advanced players to understand the underlying ideas behind moves.&lt;/p&gt;</description></item></channel></rss>
